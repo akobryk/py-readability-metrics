@@ -1,6 +1,6 @@
 import math
-from readability.text.analyzer import Analyzer
-from readability.exceptions import ReadabilityException
+from readability_metrics.text.analyzer import Analyzer
+from readability_metrics.exceptions import ReadabilityException
 
 
 class Result:
